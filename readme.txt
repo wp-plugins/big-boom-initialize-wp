@@ -2,11 +2,12 @@
 Contributors:  bigboomdesign, michaelhull
 Requires at least: 3.5
 Tested up to: 4.2.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 Within seconds, you can turn a fresh WordPress install into a site with a basic content structure and sensible initial settings.
 
 == Description ==
+
 # Big Boom Initialize WP
 
 Initialize content and options for your WordPress site. 
@@ -29,7 +30,7 @@ This plugin is not suggested for sites with existing content and structure in pl
 	* Catch-all is changed to `Postings` if currently set to `Uncategorized`
 	* New categories are created
 		* Testimonials
-		* FAQ\'s
+		* FAQ's
 		* Helpful Hints
 
 * Menu and Menu Items
