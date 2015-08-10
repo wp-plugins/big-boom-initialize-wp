@@ -1,14 +1,12 @@
 === Big Boom Initialize WP ===
 Contributors:  bigboomdesign, michaelhull
 Requires at least: 3.5
-Tested up to: 4.2.2
-Stable tag: 1.0.2
+Tested up to: 4.3
+Stable tag: 1.1.0
 
 Initialize content and options for your WordPress site. 
 
 == Description ==
-
-# Big Boom Initialize WP
 
 Within seconds, you can turn a fresh WordPress install into a site with a basic content structure and sensible initial settings. From here, any settings and content can be changed as usual.
 
